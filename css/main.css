@@ -1,0 +1,12 @@
+.wrapper{
+    width:100%;
+    margin:0 auto;
+}
+.wrapper div{
+    border:1px solid gray;
+    box-sizing: border-box;
+    height:150px;
+    background:lightgray;
+    float:left;
+}
+
